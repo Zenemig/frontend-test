@@ -8,13 +8,13 @@ You should create a fork of this project, and develop it on top of your fork. Us
 
 Remember that this is a technical test and not a public tender, so there is not just one correct answer. Show that you are good and impress us, but do not forget the purpose of the project.
 
-We do not set a time limit for solving this test, which is valid for us and the final result and evolution of the project creation until we achieve this result, but we believe that this challenge can be solved in about 16 hours of coding.
+We do not set a time limit for solving this test, which is valid for us and the final result and evolution of the project creation until we achieve this result, but we believe that this challenge can be solved in about 12 hours of coding.
 
 ## The Challenge 
 
 We need you to create a nice blog using our content. This blog should be called "The Marketing Blog" and should be used to share content in social media. 
 
-We have guidelines for you that is going to be helpful to create your blog. Also, we have a questionnaire
+We have [guidelines](GUIDELINES.md) for you that is going to be helpful to create your blog. Also, we have a [questionnaire](QUESTIONNAIRE)
  that you have to response.
 
 Remember to be consistent with our expectations and try to make us happy and impress us. Try not to do some things that we don't like and read the list of things that we'll evaluate.
