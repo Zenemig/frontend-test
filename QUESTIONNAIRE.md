@@ -28,11 +28,11 @@ isPowerOfTwo(-1); // false
 // your code
 ```
 
-5. Describe the functionality of the use strict; directive
+5. Describe the functionality of the `use strict;` directive
 
-6. What is the difference between == and === in JS?
+6. What is the difference between `==` and `===` in JS?
 
-7. What is the difference between null and undefined
+7. What is the difference between `null` and `undefined`
 
 
 
