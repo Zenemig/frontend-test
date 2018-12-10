@@ -53,3 +53,4 @@ Remember to be consistent with our expectations and try to make us happy and imp
   * Scope of the proposed objectives
   * Mobile adaptation (responsive layout)
   * Components and extensibility of Javascript components
+  * Answers from the questionnaire
