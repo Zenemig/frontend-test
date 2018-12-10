@@ -4,7 +4,7 @@ This is the test used by Postedin to technically evaluate the candidates for our
 
 ## Instructions
 
-You should create a fork of this project, and develop it on top of your fork. Use the main README of your repository to tell us how your test was solved, the decisions you made, how you organized and separated your code, and especially the instructions on how to run your project, after all the first person who will run your project will be a programmer of our team, and if you can explain to him how to do this, you've started well!
+You should create a fork of this project, and develop it on top of your fork. Use the main README of your repository to tell us how your test was solved, the decisions you made, how you organized and separated your code, and especially the instructions on how to run your project, after all the first person who will run your project will be a programmer of our team, and if you can explain him how to do this, you've started well!
 
 Remember that this is a technical test and not a public tender, so there is not just one correct answer. Show that you are good and impress us, but do not forget the purpose of the project.
 
