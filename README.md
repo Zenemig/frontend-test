@@ -14,7 +14,7 @@ We do not set a time limit for solving this test, which is valid for us and the 
 
 We need you to create a nice blog using our content. This blog should be called "The Marketing Blog" and should be used to share content in social media. 
 
-We have [guidelines](GUIDELINES.md) thar are going to be helpful to create your blog. Also, you have to answer this [questionnaire](QUESTIONNAIRE.md).
+We have [guidelines](GUIDELINES.md) that are going to be helpful to create your blog. Also, you have to answer this [questionnaire](QUESTIONNAIRE.md).
 
 Remember to be consistent with our expectations, try to make us happy and to imppress us. Avoid doing things that we dislike and read carefully the list of things that we evaluate.
 
