@@ -12,7 +12,7 @@ var string = "Welcome to this Javascript Guide!";
 // your code
 ```
 
-2- Check if a given string is a palindrome "racecar" is a palindrome. "race car" should also be considered a palindrome. Case sensitivity should be taken into account
+2. Check if a given string is a palindrome "racecar" is a palindrome. "race car" should also be considered a palindrome. Case sensitivity should be taken into account
 
 3. Implement enqueue and dequeue using only two stacks
 
