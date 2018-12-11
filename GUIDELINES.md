@@ -8,7 +8,6 @@ By “structure” we mean the decisions you make concerning how your project be
 
 ``` 
 app/
-    components/
     controllers/
         index.js
         post.js
@@ -31,6 +30,8 @@ package.json
 README.md
 testem.js
 ```
+
+Optionally if using ember you could also use the upcoming [module unification structure](https://github.com/emberjs/rfcs/blob/master/text/0143-module-unification.md)
 
 ### Where to get the data?
 
