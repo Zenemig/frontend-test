@@ -1,6 +1,6 @@
 # Postedin Frontend Test
 
-This is the test used by Postedin to technically evaluate the candidates for our Frontend vacancies. If you are participating in a selective process for our team, surely at some point you will receive this link, but if you got here "by chance", feel invited to develop our test and send a message to us in the e-mail jobs@postedin.com
+This is the test used by Postedin to technically evaluate the candidates for our Frontend vacancies. If you are participating in a selective process for our team, at some point you will receive this link, but if you got here "by chance", feel invited to develop our test and send a message to us in the e-mail jobs@postedin.com
 
 ## Instructions
 
@@ -8,7 +8,7 @@ You should create a fork of this project, and develop it on top of your fork. Us
 
 Remember that this is a technical test and not a public tender, so there is not just one correct answer. Show that you are good and impress us, but do not forget the purpose of the project.
 
-We do not set a time limit for solving this test, which is valid for us and the final result and evolution of the project creation until we achieve this result, but we believe that this challenge can be solved in about 12 hours of coding.
+We do not set a time limit for solving this test, which is valid for us and the final result and evolution of the project creation until we achieve this result, but we believe that this challenge can be solved in about 8 hours of coding.
 
 ## The Challenge 
 
@@ -22,8 +22,8 @@ Remember to be consistent with our expectations, try to make us happy and to imp
 
   * See a solution made in Ember. Use the framework in the best possible way (methodology /  structure). Choose the version of ecmascript you like. It is ok if you want to use another framework, but let us know.
   * Also see the use of dependency managers (npm, webpack, bower)
-  * Automate tasks with gulp, grunt or other tool of your choice
-  * An HTML written in the most semantic way possible (HTML5 / 5.1)
+  * Automate tasks with gulp, grunt or other tool of your choice (ember will handle this for you if you use it)
+  * HTML written in the most semantic way possible (HTML5 / 5.1)
   * CSS3 / 4 - With a pre-processor of CSS (the choice is at your discretion, but here we use SASS)
   * Mobile first and responsive layout
 
@@ -42,7 +42,7 @@ Remember to be consistent with our expectations, try to make us happy and to imp
 
   * Find out that it was not you who did your test
   * See large commits without much explanation in the messages in your repository
-  * Finding a commit with the NPM and Bower dependencies
+  * Finding a commit with the NPM and Bower dependencies or sensitive data
 
 ## What we will evaluate from your test
 
