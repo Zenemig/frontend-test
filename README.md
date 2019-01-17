@@ -15,7 +15,6 @@ Create "The Marketing Blog", a blog using their content from a public Wordpress 
   - Use BEM naming and Sass as a preprocessor
   - Use animations that enhance the UX
   - Show articles on the Homepage
-  - List the available articles
   - Show details for each article
   - Allow social media sharing of the content
 
