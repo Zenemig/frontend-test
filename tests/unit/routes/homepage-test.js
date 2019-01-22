@@ -12,6 +12,6 @@ module('Unit | Route | homepage', function(hooks) {
 
   test('should list posts.', async function(assert) {
     await visit('/')
-    assert.equal(this.element.querySelectorAll('.c-post-preview').length, 3, 'should display 3 posts')
+    assert.equal(this.element.querySelectorAll('.c-post-preview').length, 10, 'should display 10 posts')
   })
 })

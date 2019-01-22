@@ -1,15 +1,9 @@
 import Route from '@ember/routing/route'
+import { inject as service } from '@ember/service'
 
 export default Route.extend({
+  ajax: service(),
   model() {
-    return [{
-      title: 'Post 1 Title'
-    },
-    {
-      title: 'Post 2 Title'
-    },
-    {
-      title: 'Post 3 Title'
-    }]
+    return this.get('ajax').request('https://www.postedin.com/wp-json/wp/v2/posts/');
   }
 })

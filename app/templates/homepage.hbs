@@ -1,7 +1,11 @@
-{{#each this.model as |post|}}
-  <article class="c-post-preview">
-    <h2 class="c-post-preview__title">
-      {{ post.title }}
-    </h2>
-  </article>
-{{/each}}
+{{#if this.model}}
+  {{#each this.model as |post|}}
+    <article class="c-post-preview">
+      <h2 class="c-post-preview__title">
+        {{ post.title.rendered }}
+      </h2>
+    </article>
+  {{/each}}
+{{else}}
+  <p>Awww, no posts :(</p>
+{{/if}}
