@@ -1,0 +1,8 @@
+.l-posts-list {
+  @include media(lg) {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+}

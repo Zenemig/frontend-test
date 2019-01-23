@@ -1,0 +1,14 @@
+.c-menu {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: baseline;
+  &__item {
+    font-family: $type-title;
+    font-size: 18px;
+    font-weight: bold;
+    &:not(:last-child) {
+      margin-right: $space-big;
+    }
+  }
+}

@@ -1,4 +1,13 @@
 <div class="l-header">
-  <h1 class="l-header__title">The Marketing Blog</h1>
   <img class="l-header__logo" src="https://www.postedin.com/wp-content/themes/postedin/assets/images/logo.svg" title="Posted In Logo" alt="Posted In Logo">
+
+  <nav class="c-menu">
+    {{#link-to "homepage" class="c-menu__item"}}
+      Blog
+    {{/link-to}}
+
+    {{#link-to "questionnaire" class="c-menu__item"}}
+      Questionnaire
+    {{/link-to}}
+  </nav>
 </div>
