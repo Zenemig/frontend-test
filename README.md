@@ -23,3 +23,15 @@ Create "The Marketing Blog", a blog using their content from a public Wordpress 
   - Run `npm install` on the console to install dependancies
   - Run `ember serve` to run the local server
   - Run `ember test` to run the tests
+
+## How the Test was Solved
+
+I used the Ember CLI to create a new Ember app along with Sass.
+
+I used `ember-ajax` to fetch the posts from the given endpoint and set it as the model for the Homepage route, which contains the posts list. Sadly, my API-foo is lacking and even though I was planning on creating a very detailed blog, using title, featured media, tags, excerpts, etc. for the post preview and opening the single post as a sliding overlay that came from the side, I was not able to do so in time.
+
+For the CSS, I used `scss` with an Atomic Design approach and BEM + namespaces, creating a scalable and easy to maintain CSS codebase.
+
+For the Questionnaire I used CodePen for the code questions.
+
+You can see the final product [running on Heroku](https://postedin-frontend-test.herokuapp.com/questionnaire)
