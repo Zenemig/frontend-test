@@ -1,11 +1,9 @@
+<h1 class="c-page-title">
+  The Marketing Blog
+</h1>
+
 {{#if this.model}}
-  {{#each this.model as |post|}}
-    <article class="c-post-preview">
-      <h2 class="c-post-preview__title">
-        {{ post.title.rendered }}
-      </h2>
-    </article>
-  {{/each}}
+  {{list-posts posts=model}}
 {{else}}
-  <p>Awww, no posts :(</p>
+  <p>Awww, no hay posts :(</p>
 {{/if}}

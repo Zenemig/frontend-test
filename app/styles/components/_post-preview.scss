@@ -1,0 +1,9 @@
+.c-post-preview {
+  margin-bottom: $space-big;
+  border-radius: 5px;
+  padding: $space-big;
+  background-color: $gray-light;
+  @include media(lg) {
+    flex: 0 0 calc(50% - 15px);
+  }
+}

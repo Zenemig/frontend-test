@@ -7,4 +7,14 @@ html {
 
 body {
   margin: 0;
+  font-family: $type-body;
+}
+
+a {
+  color: $brand-primary;
+  text-decoration: none;
+  transition: color 0.3s linear;
+  &:hover {
+    color: darken($brand-primary, 10%);
+  }
 }

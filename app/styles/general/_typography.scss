@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC:400,700|Roboto:300,700');
 
 h1, h2 {
+  margin: 0;
   font-family: $type-title;
   font-weight: 300;
 }
 
 h3, h4, h5, h6 {
+  margin: 0;
   font-family: $type-title;
   font-weight: 700;
 }

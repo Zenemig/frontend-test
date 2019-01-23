@@ -1,0 +1,14 @@
+<section class="l-posts-list">
+  {{#each posts as |post|}}
+    <article class="c-post-preview">
+      <h2 class="c-post-preview__title">
+        <a href="#">
+          {{ post.title.rendered }}
+        </a>
+      </h2>
+      <p class="c-post-preview__text">
+        {{ post.excerpt.rendered }}
+      </p>
+    </article>
+  {{/each}}
+</section>
