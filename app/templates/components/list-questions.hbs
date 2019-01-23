@@ -1,0 +1,24 @@
+{{#each questions as |question|}}
+  <article class="c-question">
+    <div class="c-question__number">
+      {{ question.id }}
+    </div>
+
+    <h3 class="c-question__question">
+      {{ question.question}}
+      {{#if question.example}}<small>{{ question.example }}</small>{{/if}}
+    </h3>
+
+    {{#if question.link}}
+      <a class="c-question__link" href="{{ question.link }}">
+        View on CodePen
+      </a>
+    {{/if}}
+
+    {{#if question.answer}}
+      <p class="c-question__answer">
+        {{question.answer}}
+      </p>
+    {{/if}}
+  </article>
+{{/each}}
