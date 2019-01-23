@@ -18,5 +18,8 @@ Create "The Marketing Blog", a blog using their content from a public Wordpress 
   - Show details for each article
   - Allow social media sharing of the content
 
-## The Questionnaire
-  - Here are my answers to the [questionnaire](QUESTIONNAIRE.md).
+## How to Use the Repo
+  - Clone repo
+  - Run `npm install` on the console to install dependancies
+  - Run `ember serve` to run the local server
+  - Run `ember test` to run the tests
